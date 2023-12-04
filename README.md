@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Cristian;Welcome+to+my+profile!" alt="Title"></img>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=40&pause=1000&color=315EF7&random=false&width=435&lines=Heyyy!+I'm+Cristian;Welcome+to+my+profile" alt="Typing SVG" /></a>
 </div>
 
 ```bash
