@@ -3,7 +3,7 @@
 </div>
 
 <div style="font-family: 'Courier New', monospace; background-color: #000; color: #00ff00; padding: 10px; border: 1px solid #00ff00; border-radius: 5px; white-space: pre-wrap;">
-  Page in progress.....
+  PAGE in PROGRESS..... dame un chance
 </div>
 
 
