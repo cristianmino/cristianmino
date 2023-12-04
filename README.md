@@ -2,22 +2,42 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Cristian;Welcome+to+my+profile!" alt="Title"></img>
 </div>
 
-```py
-from CristianOnim import DevOpsEngineer
+```bash
+#!/bin/bash
 
-class Bio(DevOpsEngineer):
-    name = 'Cristian'
-    title = 'DevOps Engineer'
-    company = 'PeiGo | Remoto'
-    location = 'Cuenca'
-    experience = 10
+# Personal information
+name="Cristian"
+title="DevOps Engineer"
+company="PeiGo | Remote"
+location="Ecuador"
+experience=10
 
-class Skills(DevOpsEngineer):
-    languages = ['Shell Scripting', 'Python', 'Java', 'JavaScript']
-    tools = ['Docker', 'Kubernetes', 'Jenkins', 'Terraform', 'Terragrunt']
-    cloud = ['AWS', 'OpenStack', 'GCP']
-    version_control = ['Git', 'GitHub Actions']
-    monitoring = ['Prometheus', 'Grafana', 'Dynatrace', 'Datadog']
-    automation = ['Ansible']
-    database = ['Oracle', 'PostgreSQL', 'MongoDB', 'Redis', 'DynamoDb']
+# Skills
+languages=("Shell Scripting" "Python", 'Java', 'JavaScript')
+tools=("Docker" "Kubernetes" "Jenkins" "Terraform" "Terragrunt")
+cloud=("AWS" "OpenStack" "Google Cloud Platform")
+version_control=("Git" "GitHub Actions")
+monitoring=("Prometheus" "Grafana" "Dynatrace")
+automation=("Ansible")
+
+# Additional Skills
+learning=("Machine Learning" "Go")
+
+# Print information
+echo "Name: $name"
+echo "Title: $title"
+echo "Company: $company"
+echo "Location: $location"
+echo "Experience: $experience years in DevOps"
+echo -e "\nSkills:"
+echo "  - Languages: ${languages[@]}"
+echo "  - Tools: ${tools[@]}"
+echo "  - Cloud: ${cloud[@]}"
+echo "  - Version Control: ${version_control[@]}"
+echo "  - Monitoring: ${monitoring[@]}"
+echo "  - Automation: ${automation[@]}"
+echo -e "\nProjects:"
+for project in "${learning[@]}"; do
+  echo "  - $project"
+done
 ```
