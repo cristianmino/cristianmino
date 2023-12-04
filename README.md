@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Tien+Huynh+%3C3;TN+is+me!!!;Welcome+to+my+profile!" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Cristian;Welcome+to+my+profile!" alt="Title"></img>
 </div>
 
 ```py
@@ -19,4 +19,5 @@ class Skills(DevOpsEngineer):
     version_control = ['Git', 'GitHub Actions']
     monitoring = ['Prometheus', 'Grafana', 'Dynatrace', 'Datadog']
     automation = ['Ansible']
+    database = ['Oracle', 'PostgreSQL', 'MongoDB', 'Redis', 'DynamoDb']
 ```
