@@ -1,22 +1,22 @@
-### Hi there 👋
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/tienhuynh-tn?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/tienhuynh-tn?style=social"> &nbsp;&nbsp; <img alt="TienHuynh-TN | Count Views" src="https://enemo786q3svfle.m.pipedream.net" />
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Tien+Huynh+%3C3;TN+is+me!!!;Welcome+to+my+profile!" alt="Title"></img>
 </div>
 
+```py
+from CristianOnim import DevOpsEngineer
 
-<!--
-**cristianmino/cristianmino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+class Bio(DevOpsEngineer):
+    name = 'Cristian'
+    title = 'DevOps Engineer'
+    company = 'PeiGo | Remoto'
+    location = 'Cuenca'
+    experience = 8  # Años de experiencia en DevOps
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class Skills(DevOpsEngineer):
+    languages = ['Shell Scripting', 'Python', 'Java', 'JavaScript']
+    tools = ['Docker', 'Kubernetes', 'Jenkins', 'Terraform', 'Terragrunt']
+    cloud = ['AWS', 'OpenStack', 'GCP']
+    version_control = ['Git', 'GitHub Actions']
+    monitoring = ['Prometheus', 'Grafana', 'Dynatrace', 'Datadog']
+    automation = ['Ansible']
+```
