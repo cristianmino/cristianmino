@@ -10,7 +10,7 @@ class Bio(DevOpsEngineer):
     title = 'DevOps Engineer'
     company = 'PeiGo | Remoto'
     location = 'Cuenca'
-    experience = 8  # Años de experiencia en DevOps
+    experience = 10
 
 class Skills(DevOpsEngineer):
     languages = ['Shell Scripting', 'Python', 'Java', 'JavaScript']
